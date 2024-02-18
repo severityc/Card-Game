@@ -6,6 +6,7 @@
 ### 📄 Features
 - Animal Cards
 - Planet Cards
+- Score list
 
 ---
 
