@@ -1,4 +1,3 @@
-from Person import *
 from Animal import setUpAnimalCards, get_animals_list
 from Planet import setUpPlanetCards, get_planets_list
 
